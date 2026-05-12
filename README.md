@@ -43,6 +43,7 @@ The solution combines **RFM Scoring**, **KMeans Clustering**, **CLV Prediction**
 | 📊 Power BI Dashboard (.pbix) | [View Dashboard](https://cbiaproject.netlify.app/) |
 | 🌐 CBIA Dashboard Preview (HTML) | [View Live Preview](https://cbiaproject.netlify.app/) |
 | 📄 BRD Document | [Download BRD](https://github.com/mr-deepak-kp/CBIA_Demo/blob/main/CBIA_BRD_v2.pdf) |
+| 📄 PPT Presentation | [Download PPT](https://github.com/mr-deepak-kp/CBIA_Demo/blob/main/CBIA_presentation.pdf) |
 
 ---
 
